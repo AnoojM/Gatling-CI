@@ -1,0 +1,10 @@
+{
+  "simulation": "sessionpackage.StringBodyWithExpressions",
+  "simulationId": "stringbodywithexpressions",
+  "start": 1579784048757,
+  "description": "",
+  "scenarios": ["CreateLink"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,5 @@
+RUN	sessionpackage.GetMultipleHoteDetailSubsequent	getmultiplehotedetailsubsequent	1579699447856	 	3.1.1
+USER	GetHotelDetails	1	START	1579699449551	1579699449551
+REQUEST	1		gethotelrequest	1579699449588	1579699450860	OK	 
+REQUEST	1		getmultiplehoteldetails	1579699451130	1579699451865	OK	 
+USER	GetHotelDetails	1	END	1579699449551	1579699451887

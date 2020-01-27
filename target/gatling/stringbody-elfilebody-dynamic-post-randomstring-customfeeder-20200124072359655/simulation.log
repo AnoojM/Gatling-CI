@@ -1,0 +1,5 @@
+RUN	sessionpackage.StringBody_ELFileBody_Dynamic_Post_RandomString_CustomFeeder	stringbody-elfilebody-dynamic-post-randomstring-customfeeder	1579850639655	 	3.1.1
+USER	CreateLink	1	START	1579850641255	1579850641255
+REQUEST	1		CreateLink	1579850641330	1579850642409	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 403
+REQUEST	1		CreateLink	1579850642443	1579850643330	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 403
+USER	CreateLink	1	END	1579850641255	1579850643337

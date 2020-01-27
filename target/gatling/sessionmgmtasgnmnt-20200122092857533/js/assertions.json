@@ -1,0 +1,10 @@
+{
+  "simulation": "sessionpackage.SessionMgmtAsgnmnt",
+  "simulationId": "sessionmgmtasgnmnt",
+  "start": 1579685337533,
+  "description": "",
+  "scenarios": ["GetHotelDetails"],
+  "assertions": [
+
+  ]
+}

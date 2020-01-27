@@ -1,0 +1,13 @@
+RUN	basicpackage.BasicFeederScript	basicfeederscript	1579613033561	 	3.1.1
+USER	basicfeederscenario	3	START	1579613035085	1579613035085
+USER	basicfeederscenario	2	START	1579613035084	1579613035084
+USER	basicfeederscenario	1	START	1579613035081	1579613035081
+USER	basicfeederscenario	4	START	1579613035085	1579613035085
+ERROR	basicfeederrequest: Failed to build request: No attribute named 'states' is defined 	1579613035115
+USER	basicfeederscenario	2	END	1579613035084	1579613035127
+ERROR	basicfeederrequest: Failed to build request: No attribute named 'states' is defined 	1579613035127
+USER	basicfeederscenario	3	END	1579613035085	1579613035130
+ERROR	basicfeederrequest: Failed to build request: No attribute named 'states' is defined 	1579613035131
+USER	basicfeederscenario	1	END	1579613035081	1579613035135
+ERROR	basicfeederrequest: Failed to build request: No attribute named 'states' is defined 	1579613035136
+USER	basicfeederscenario	4	END	1579613035085	1579613035137

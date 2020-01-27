@@ -1,0 +1,10 @@
+{
+  "simulation": "sessionpackage.StringBody_ELString_Post",
+  "simulationId": "stringbody-elstring-post",
+  "start": 1579763697119,
+  "description": "",
+  "scenarios": ["CreateLink"],
+  "assertions": [
+
+  ]
+}

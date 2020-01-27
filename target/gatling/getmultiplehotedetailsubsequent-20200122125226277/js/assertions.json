@@ -1,0 +1,10 @@
+{
+  "simulation": "sessionpackage.GetMultipleHoteDetailSubsequent",
+  "simulationId": "getmultiplehotedetailsubsequent",
+  "start": 1579697546277,
+  "description": "",
+  "scenarios": ["GetHotelDetails"],
+  "assertions": [
+
+  ]
+}

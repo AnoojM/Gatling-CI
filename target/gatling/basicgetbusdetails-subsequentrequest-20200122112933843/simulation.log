@@ -1,0 +1,5 @@
+RUN	sessionpackage.BasicGetBusDetails_SubsequentRequest	basicgetbusdetails-subsequentrequest	1579692573843	 	3.1.1
+USER	GetBusDetails	1	START	1579692575360	1579692575360
+REQUEST	1		getbusrequest	1579692575408	1579692578325	OK	 
+REQUEST	1		getSeatlayoutrequest	1579692579028	1579692583706	OK	 
+USER	GetBusDetails	1	END	1579692575360	1579692583719

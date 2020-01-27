@@ -1,0 +1,10 @@
+{
+  "simulation": "sessionpackage.StringBody_ELFileBody_Dynamic_Post_RandomString",
+  "simulationId": "stringbody-elfilebody-dynamic-post-randomstring",
+  "start": 1579839866831,
+  "description": "",
+  "scenarios": ["CreateLink"],
+  "assertions": [
+
+  ]
+}

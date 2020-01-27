@@ -1,0 +1,10 @@
+{
+  "simulation": "basicpackage.BasicCheckScript",
+  "simulationId": "basiccheckscript",
+  "start": 1579605820661,
+  "description": "",
+  "scenarios": ["basicgetscenario"],
+  "assertions": [
+
+  ]
+}

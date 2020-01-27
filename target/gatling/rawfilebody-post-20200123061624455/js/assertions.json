@@ -1,0 +1,10 @@
+{
+  "simulation": "sessionpackage.RawFileBody_Post",
+  "simulationId": "rawfilebody-post",
+  "start": 1579760184455,
+  "description": "",
+  "scenarios": ["CreateLink"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "sessionpackage.StringBody_Post",
+  "simulationId": "stringbody-post",
+  "start": 1579761786578,
+  "description": "",
+  "scenarios": ["CreateLink"],
+  "assertions": [
+
+  ]
+}

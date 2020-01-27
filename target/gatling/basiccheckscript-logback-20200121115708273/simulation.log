@@ -1,0 +1,4 @@
+RUN	basicpackage.BasicCheckScript_Logback	basiccheckscript-logback	1579607828273	 	3.1.1
+USER	basicgetscenario	1	START	1579607829699	1579607829699
+REQUEST	1		basicgetrequest	1579607829748	1579607831311	OK	 
+USER	basicgetscenario	1	END	1579607829699	1579607831397

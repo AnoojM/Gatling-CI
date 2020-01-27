@@ -1,0 +1,5 @@
+RUN	sessionpackage.SessionMgmtAsgnmnt2_Subsequent	sessionmgmtasgnmnt2-subsequent	1579693874848	 	3.1.1
+USER	GetHotelDetails	1	START	1579693876608	1579693876608
+REQUEST	1		gethotelrequest	1579693876666	1579693878612	OK	 
+REQUEST	1		hoteldetailsRequest	1579693878866	1579693879381	OK	 
+USER	GetHotelDetails	1	END	1579693876608	1579693879390

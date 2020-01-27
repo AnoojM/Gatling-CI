@@ -1,0 +1,10 @@
+{
+  "simulation": "basicpackage.WebSocketExample2",
+  "simulationId": "websocketexample2",
+  "start": 1579866166629,
+  "description": "",
+  "scenarios": ["testwebsocketscenario"],
+  "assertions": [
+
+  ]
+}

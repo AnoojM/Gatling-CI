@@ -1,0 +1,10 @@
+{
+  "simulation": "otherprotocols.WebSocketExample1",
+  "simulationId": "websocketexample1",
+  "start": 1579859661020,
+  "description": "",
+  "scenarios": ["testwebsocketscenario"],
+  "assertions": [
+
+  ]
+}

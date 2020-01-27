@@ -1,0 +1,4 @@
+RUN	sessionpackage.BasicGetBusDetails	basicgetbusdetails	1579669404472	test	3.1.1
+ERROR	getbusrequest: Failed to build request: No baseUrl defined but provided url is relative : /api/bus/search/?app_id=3dd76d27&app_key=caf798c62e91dd6d1062b4e833b995ea&format=json&source=bangalore&destination=hyderabad&dateofdeparture=20200126 	1579669406198
+USER	GetBusDetails	1	START	1579669406185	1579669406185
+USER	GetBusDetails	1	END	1579669406185	1579669406218

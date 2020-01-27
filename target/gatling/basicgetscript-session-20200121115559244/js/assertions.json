@@ -1,0 +1,10 @@
+{
+  "simulation": "basicpackage.BasicGetScript_Session",
+  "simulationId": "basicgetscript-session",
+  "start": 1579607759244,
+  "description": "",
+  "scenarios": ["basicgetscenario"],
+  "assertions": [
+
+  ]
+}

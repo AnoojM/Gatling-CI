@@ -1,0 +1,5 @@
+RUN	sessionpackage.StringBody_ELFileBody_Dynamic_Post_RandomString	stringbody-elfilebody-dynamic-post-randomstring	1579840930858	 	3.1.1
+USER	CreateLink	1	START	1579840932303	1579840932303
+REQUEST	1		CreateLink	1579840932372	1579840933604	OK	 
+REQUEST	1		CreateLink	1579840933631	1579840935616	OK	 
+USER	CreateLink	1	END	1579840932303	1579840935623

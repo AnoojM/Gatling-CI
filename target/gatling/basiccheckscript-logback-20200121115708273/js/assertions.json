@@ -1,0 +1,10 @@
+{
+  "simulation": "basicpackage.BasicCheckScript_Logback",
+  "simulationId": "basiccheckscript-logback",
+  "start": 1579607828273,
+  "description": "",
+  "scenarios": ["basicgetscenario"],
+  "assertions": [
+
+  ]
+}

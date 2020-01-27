@@ -1,0 +1,10 @@
+RUN	sessionpackage.BasicGetBusDetails_Check	basicgetbusdetails-check	1579682802585	 	3.1.1
+USER	GetBusDetails	3	START	1579682804038	1579682804038
+USER	GetBusDetails	1	START	1579682804038	1579682804038
+USER	GetBusDetails	2	START	1579682804038	1579682804038
+ERROR	getbusrequest: Failed to build request: No attribute named 'source' is defined 	1579682804064
+USER	GetBusDetails	3	END	1579682804038	1579682804081
+ERROR	getbusrequest: Failed to build request: No attribute named 'source' is defined 	1579682804082
+USER	GetBusDetails	1	END	1579682804038	1579682804083
+ERROR	getbusrequest: Failed to build request: No attribute named 'source' is defined 	1579682804084
+USER	GetBusDetails	2	END	1579682804038	1579682804086
