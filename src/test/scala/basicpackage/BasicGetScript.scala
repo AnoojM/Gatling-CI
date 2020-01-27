@@ -9,7 +9,7 @@ class BasicGetScript extends Simulation {
 
   val scn = scenario("basicgetscenario").exec(http("basicgetrequest").get("/breweries"))
 
-  setUp(scn.inject(atOnceUsers(1), rampUsers(5), during(5),nothingFor(30)).protocols(httpConf).maxDgit
+  setUp(scn.inject(atOnceUsers(1))).protocols(httpConf)
 
 
 }
